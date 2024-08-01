@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 - 💬 My name is Rik, and I'm a 3rd year Electrical Engineering student at UBC.
 - ⚡ I'm passionate about embedded systems, FPGA development, and circuit analysis/design!
+
+## Skills
+
+[<img src='https://github.com/user-attachments/assets/5307da5e-3328-44d9-96d5-8bca9044f08c' alt='github' height='40'>]

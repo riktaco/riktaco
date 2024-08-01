@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ## Skills
 
-[<img src='https://github.com/user-attachments/assets/5307da5e-3328-44d9-96d5-8bca9044f08c' alt='github' height='40'>]
+<img src='https://github.com/user-attachments/assets/5307da5e-3328-44d9-96d5-8bca9044f08c' alt='github' height='40'><img src='https://github.com/user-attachments/assets/ca2385db-7820-42e4-adb6-9f3d00ee38df' alt='github' height='40'><img src='https://github.com/user-attachments/assets/420e3716-0f7f-461d-b2d7-f5af1e5d988e' alt='github' height='40'><img src='https://github.com/user-attachments/assets/5346ecbb-9787-4100-9126-f5a71ed99bdf' alt='github' height='40'>

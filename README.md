@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💬 My name is Rik, and I'm a 3rd year Electrical Engineering student at UBC.
+- 🔌 Check out my projects!
